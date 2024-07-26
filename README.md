@@ -1,5 +1,7 @@
 # WeatherXM Python Integration
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4)](https://github.com/sponsors/simeononsecurity) 
+
 ## About
 
 This Python script facilitates interaction with the WeatherXM API, allowing users to authenticate, fetch device lists, and retrieve weather history data. It's designed to work with WeatherXM's system for users to access weather data from their registered devices.
